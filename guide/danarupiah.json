@@ -1,0 +1,77 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"",
+      "open_ads_max":"45b5f182c34b45fb",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "backup_ads_banner":"4b59e814735216d8",
+      "backup_ads_intertitial":"1fd50558d54cfc3b",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Car Loan",
+      "image": "file:///android_asset/image/alien1.jpg"
+
+    }
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Dana Rupiah",
+      "title": "Tentang Dana Rupiah",
+      "image": "file:///android_asset/image/dana1.jpg",
+      "description": "Sekilas Tentang Dana Rupiah",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "Dana Rupiah",
+      "title": "Apakah Pinjaman online Dana Rupiah Pinjaman Cepat-Hint Aman",
+      "image": "file:///android_asset/image/dana1.png",
+      "description": "Cek Pinjaman Online apakah Terdaftar OJK",
+      "link": "file:///android_asset/guide/guide_2.html"},
+    {
+      "id": 3,
+      "category": "Dana Rupiah",
+      "title": "Cara Menghitung Bunga Pinjaman Online Dana Rupiah Pinjaman Cepat-Hint",
+      "image": "file:///android_asset/image/dana1.png",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dana Rupiah",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 4,
+      "category": "Dana Rupiah",
+      "title": "Syarat Pinjaman Online Dana Rupiah Pinjaman Cepat-Hint Agar Cepat Cair",
+      "image": "file:///android_asset/image/dana2.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Dana Rupiah Cepat Cair",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+   
+   {
+      "id": 5,
+      "category": "Dana Rupiah",
+      "title": "Kemudhan Pinjaman Online di Dana Rupiah Pinjaman Cepat-Hint ",
+      "image": "file:///android_asset/image/dana2.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Dana Rupiah Cepat Cair",
+      "link": "file:///android_asset/guide/guide_5.html"
+    }
+  ]
+}
