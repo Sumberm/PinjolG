@@ -1,0 +1,79 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "941642620440492_941643327107088",
+      "main_ads_natives":"4745097ba3f52260",
+      "main_ads_intertitial":"941642620440492_941643827107038",
+      "main_ads_reward":"",
+      "open_ads_max":"4b77743d3cfdef03",
+      "open_ads_admob":"",
+      "backup_ads_banner":"404b2b8aeadf082b",
+      "backup_ads_natives":"4745097ba3f52260",
+      "backup_ads_intertitial":"b7376c683f1a3be6",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"941642620440492",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Tunaiku Pinjaman Online Cepat Cair",
+      "image": "file:///android_asset/image/png"
+
+    }
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Tunaiku Pinjaman Online Cepat Cair",
+      "title": "Tunaiku Pinjaman Online Cepat Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Sekilas Tunaiku Pinjaman Online Cepat Cair",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "Tunaiku Pinjaman Online Cepat Cair",
+      "title": "Apakah Pinjaman online Tunaiku Pinjaman Online Cepat Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Cek Pinjaman Online apakah Terdaftar OJK",
+      "link": "file:///android_asset/guide/guide_2.html"},
+    {
+      "id": 3,
+      "category": "Tunaiku Pinjaman Online Cepat Cair",
+      "title": "Cara Menghitung Bunga Pinjaman Online Tunaiku Pinjaman Online Cepat Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Tunaiku Pinjaman Online Cepat Cair",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 4,
+      "category": "Tunaiku Pinjaman Online Cepat Cair",
+      "title": "Syarat Pinjaman Online Tunaiku Pinjaman Online Cepat Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Tunaiku Pinjaman Online Cepat Cair",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+   
+   {
+      "id": 5,
+      "category": "Tunaiku Pinjaman Online Cepat Cair",
+      "title": "Kemudhan Pinjaman Online di Tunaiku Pinjaman Online Cepat Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Tunaiku Pinjaman Online Cepat Cair",
+      "link": "file:///android_asset/guide/guide_5.html"
+    }
+  ]
+}
