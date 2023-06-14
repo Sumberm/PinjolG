@@ -1,0 +1,79 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "995262751641690_995262981641667",
+      "main_ads_natives":"46be5115a0a6e8dc",
+      "main_ads_intertitial":"995262751641690_995263091641656",
+      "main_ads_reward":"",
+      "open_ads_max":"e03487bce0a8293d",
+      "open_ads_admob":"",
+      "backup_ads_banner":"	b50f0701afd98dfd",
+      "backup_ads_natives":"46be5115a0a6e8dc",
+      "backup_ads_intertitial":"d394c844538abf71",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"995262751641690",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "FreeFireGameClue",
+      "image": "file:///android_asset/image/png"
+
+    }
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "FreeFireGameClue",
+      "title": "Apa itu Free Fire Game?",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Sekilas apa itu Free Fire Game",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "FreeFireGameClue",
+      "title": "Apakah Free Fire aman untuk anak ?",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Sekilas tentang Apakah Free Fire aman untuk anak",
+      "link": "file:///android_asset/guide/guide_2.html"},
+    {
+      "id": 3,
+      "category": "FreeFireGameClue",
+      "title": "Apakah game Free Fire itu berbayar?",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Mengetahui Apakah game Free Fire itu berbayar atau tidak",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+    {
+      "id": 4,
+      "category": "FreeFireGameClue",
+      "title": "Apa manfaat dari game Free Fire?",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Mengetahui Apa manfaat dari game Free Fire?",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+   
+   {
+      "id": 5,
+      "category": "FreeFireGameClue",
+      "title": "Sekilas tentang Free Fire Game",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Mengetahui Sekilas tentang Free Fire Game",
+      "link": "file:///android_asset/guide/guide_5.html"
+    }
+  ]
+}
