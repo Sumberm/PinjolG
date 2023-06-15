@@ -1,0 +1,79 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "955854868991049_955855375657665",
+      "main_ads_natives":"d298f0475f5dc6a9",
+      "main_ads_intertitial":"955854868991049_955855552324314",
+      "main_ads_reward":"",
+      "open_ads_max":"3d040a3850ec1c78",
+      "open_ads_admob":"",
+      "backup_ads_banner":"570b5b9d2b0b52dd",
+      "backup_ads_natives":"d298f0475f5dc6a9",
+      "backup_ads_intertitial":"a5198f330eac16b5",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"955854868991049",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "CekBansos",
+      "image": "file:///android_asset/image/png"
+
+    }
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "CekBansos",
+      "title": "Cara Cek Bonus UMKM Pakai KTP",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Berikut ini Cara Cek Bonus UMKM Pakai KTP",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "CekBansos",
+      "title": "Cara Cek Bonus PKH Pakai KTP",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Berikut ini Cara Cek Bonus PKH Pakai KTP",
+      "link": "file:///android_asset/guide/guide_2.html"},
+    {
+      "id": 3,
+      "category": "CekBansos",
+      "title": "Cara Cek Bonus BSU Pakai KTP",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Berikut ini Cara Cek Bonus BSU Pakai KTP",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+    {
+      "id": 4,
+      "category": "CekBansos",
+      "title": "Cara Cek Bonus BLT BBM Pakai KTP",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Berikut ini adalah Cara Cek Bonus BLT BBM Pakai KTP",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+   
+   {
+      "id": 5,
+      "category": "CekBansos",
+      "title": "Cara Cek Bonus BST dan BPNT Pakai KTP",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Berikut ini Cara Cek Bonus BST dan BPNT Pakai KTP",
+      "link": "file:///android_asset/guide/guide_5.html"
+    }
+  ]
+}
