@@ -27,7 +27,7 @@
   ],
      "Categories": [
     {
-      "category": "Tunaiku Pinjaman Online Cepat Cair",
+      "category": "Tunaiku Pinjaman Online Cepat Hints",
       "image": "file:///android_asset/image/png"
 
     }
@@ -37,42 +37,42 @@
   "Data": [
     {
       "id": 1,
-      "category": "Tunaiku Pinjaman Online Cepat Cair",
-      "title": "Tunaiku Pinjaman Online Cepat Cair",
+      "category": "Tunaiku Pinjaman Online Cepat Hints",
+      "title": "Tunaiku Pinjaman Online Cepat Hints",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Sekilas Tunaiku Pinjaman Online Cepat Cair",
+      "description": "Sekilas Tunaiku Pinjaman Online Cepat Hints",
       "link": "file:///android_asset/guide/guide_1.html"
     },
     {
       "id": 2,
-      "category": "Tunaiku Pinjaman Online Cepat Cair",
-      "title": "Apakah Pinjaman online Tunaiku Pinjaman Online Cepat Cair",
+      "category": "Tunaiku Pinjaman Online Cepat Hints",
+      "title": "Apakah Pinjaman online Tunaiku Pinjaman Online Cepat Hints",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_2.html"},
     {
       "id": 3,
-      "category": "Tunaiku Pinjaman Online Cepat Cair",
-      "title": "Cara Menghitung Bunga Pinjaman Online Tunaiku Pinjaman Online Cepat Cair",
+      "category": "Tunaiku Pinjaman Online Cepat Hints",
+      "title": "Cara Menghitung Bunga Pinjaman Online Tunaiku Pinjaman Online Cepat Hints",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Tunaiku Pinjaman Online Cepat Cair",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Tunaiku Pinjaman Online Cepat Hints",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 4,
-      "category": "Tunaiku Pinjaman Online Cepat Cair",
-      "title": "Syarat Pinjaman Online Tunaiku Pinjaman Online Cepat Cair",
+      "category": "Tunaiku Pinjaman Online Cepat Hints",
+      "title": "Syarat Pinjaman Online Tunaiku Pinjaman Online Cepat Hints",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Tunaiku Pinjaman Online Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Tunaiku Pinjaman Online Cepat Hints",
       "link": "file:///android_asset/guide/guide_3.html"
     },
    
    {
       "id": 5,
-      "category": "Tunaiku Pinjaman Online Cepat Cair",
-      "title": "Kemudhan Pinjaman Online di Tunaiku Pinjaman Online Cepat Cair",
+      "category": "Tunaiku Pinjaman Online Cepat Hints",
+      "title": "Kemudhan Pinjaman Online di Tunaiku Pinjaman Online Cepat Hints",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Tunaiku Pinjaman Online Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Tunaiku Pinjaman Online Cepat Hints",
       "link": "file:///android_asset/guide/guide_5.html"
     }
   ]
