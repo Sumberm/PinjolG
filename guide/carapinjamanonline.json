@@ -1,0 +1,79 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "1901492510236221_1901492943569511",
+      "main_ads_natives":"e91cb70c3661a280",
+      "main_ads_intertitial":"1901492510236221_1901493036902835",
+      "main_ads_reward":"",
+      "open_ads_max":"af10a04e9fb5eab6",
+      "open_ads_admob":"",
+      "backup_ads_banner":"d89ab1890ecb6502",
+      "backup_ads_natives":"e91cb70c3661a280",
+      "backup_ads_intertitial":"e644d517ea993261",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"1901492510236221",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Kredit Cepat",
+      "image": "file:///android_asset/image/png"
+
+    }
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Kredit Cepat",
+      "title": "Tentang Kredit Cepat - Mudah Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Sekilas Kredit Cepat - Mudah Cair",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "Kredit Cepat",
+      "title": "Apakah Pinjaman online Kredit Cepat - Mudah Cair Aman",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Cek Pinjaman Online apakah Terdaftar OJK",
+      "link": "file:///android_asset/guide/guide_2.html"},
+    {
+      "id": 3,
+      "category": "Kredit Cepat",
+      "title": "Cara Menghitung Bunga Pinjaman Online Kredit Cepat - Mudah Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Kredit Cepat - Mudah Cair",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 4,
+      "category": "Kredit Cepat",
+      "title": "Syarat Pinjaman Online Kredit Cepat - Mudah Cair Agar Cepat Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Kredit Cepat - Mudah Cair Cepat Cair",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+   
+   {
+      "id": 5,
+      "category": "Kredit Cepat",
+      "title": "Kemudhan Pinjaman Online di Kredit Cepat - Mudah Cair ",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Kredit Cepat - Mudah Cair Cepat Cair",
+      "link": "file:///android_asset/guide/guide_5.html"
+    }
+  ]
+}
