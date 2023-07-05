@@ -27,7 +27,7 @@
   ],
      "Categories": [
     {
-      "category": "Cara Pinjaman Online",
+      "category": "Pinjol Legal Tenor Panjang",
       "image": "file:///android_asset/image/png"
 
     }
@@ -37,7 +37,7 @@
   "Data": [
     {
       "id": 1,
-      "category": "Cara Pinjaman Online",
+      "category": "Pinjol Legal Tenor Panjang",
       "title": "Tentang Cara Pinjaman Online",
       "image": "file:///android_asset/image/banner.png",
       "description": "Sekilas Cara Pinjaman Online",
@@ -45,14 +45,14 @@
     },
     {
       "id": 2,
-      "category": "Cara Pinjaman Online",
+      "category": "Pinjol Legal Tenor Panjang",
       "title": "Apakah Pinjaman online Cara Pinjaman Online Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_2.html"},
     {
       "id": 3,
-      "category": "Cara Pinjaman Online",
+      "category": "Pinjol Legal Tenor Panjang",
       "title": "Cara Menghitung Bunga Pinjaman Online Cara Pinjaman Online",
       "image": "file:///android_asset/image/banner.png",
       "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Cara Pinjaman Online",
@@ -60,7 +60,7 @@
     },
     {
       "id": 4,
-      "category": "Cara Pinjaman Online",
+      "category": "Pinjol Legal Tenor Panjang",
       "title": "Syarat Pinjaman Online Cara Pinjaman Online Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Cara Pinjaman Online Cair Cepat Cair",
@@ -69,7 +69,7 @@
    
    {
       "id": 5,
-      "category": "Cara Pinjaman Online",
+      "category": "Pinjol Legal Tenor Panjang",
       "title": "Kemudahan Pinjaman Online di Cara Pinjaman Online ",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Cara Pinjaman Online Cepat Cair",
