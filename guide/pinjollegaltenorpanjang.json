@@ -1,0 +1,79 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "1481866379324175_1481866899324123",
+      "main_ads_natives":"e91cb70c3661a280",
+      "main_ads_intertitial":"1481866379324175_1481867085990771",
+      "main_ads_reward":"",
+      "open_ads_max":"af10a04e9fb5eab6",
+      "open_ads_admob":"",
+      "backup_ads_banner":"d89ab1890ecb6502",
+      "backup_ads_natives":"e91cb70c3661a280",
+      "backup_ads_intertitial":"e644d517ea993261",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"1481866379324175",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Cara Pinjaman Online",
+      "image": "file:///android_asset/image/png"
+
+    }
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Cara Pinjaman Online",
+      "title": "Tentang Cara Pinjaman Online",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Sekilas Cara Pinjaman Online",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "Cara Pinjaman Online",
+      "title": "Apakah Pinjaman online Cara Pinjaman Online Aman",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Cek Pinjaman Online apakah Terdaftar OJK",
+      "link": "file:///android_asset/guide/guide_2.html"},
+    {
+      "id": 3,
+      "category": "Cara Pinjaman Online",
+      "title": "Cara Menghitung Bunga Pinjaman Online Cara Pinjaman Online",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Cara Pinjaman Online",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 4,
+      "category": "Cara Pinjaman Online",
+      "title": "Syarat Pinjaman Online Cara Pinjaman Online Agar Cepat Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Cara Pinjaman Online Cair Cepat Cair",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+   
+   {
+      "id": 5,
+      "category": "Cara Pinjaman Online",
+      "title": "Kemudahan Pinjaman Online di Cara Pinjaman Online ",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Cara Pinjaman Online Cepat Cair",
+      "link": "file:///android_asset/guide/guide_5.html"
+    }
+  ]
+}
