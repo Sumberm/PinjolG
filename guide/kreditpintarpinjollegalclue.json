@@ -27,7 +27,7 @@
   ],
      "Categories": [
     {
-      "category": "Kredit Pintar Pinjol Tips",
+      "category": "Kredit Pintar Pinjol Legal Clue",
       "image": "file:///android_asset/image/png"
 
     }
@@ -37,42 +37,42 @@
   "Data": [
     {
       "id": 1,
-      "category": "Kredit Pintar Pinjol Tips",
-      "title": "Kredit Pintar Pinjol Tips",
+      "category": "Kredit Pintar Pinjol Legal Clue",
+      "title": "Kredit Pintar Pinjol Legal Clue",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Sekilas Kredit Pintar Pinjol Tips",
+      "description": "Sekilas Kredit Pintar Pinjol Legal Clue",
       "link": "file:///android_asset/guide/guide_1.html"
     },
     {
       "id": 2,
-      "category": "Kredit Pintar Pinjol Tips",
-      "title": "Apakah Pinjaman online Kredit Pintar Pinjol Tips",
+      "category": "Kredit Pintar Pinjol Legal Clue",
+      "title": "Apakah Pinjaman online Kredit Pintar Pinjol Legal Clue",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_2.html"},
     {
       "id": 3,
-      "category": "Kredit Pintar Pinjol Tips",
-      "title": "Cara Menghitung Bunga Pinjaman Online Kredit Pintar Pinjol Tips",
+      "category": "Kredit Pintar Pinjol Legal Clue",
+      "title": "Cara Menghitung Bunga Pinjaman Online Kredit Pintar Pinjol Legal Clue",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Kredit Pintar Pinjol Tips",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Kredit Pintar Pinjol Legal Clue",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 4,
-      "category": "Kredit Pintar Pinjol Tips",
-      "title": "Syarat Pinjaman Online Tunaiku Pinjaman Online Cepat Cair",
+      "category": "Kredit Pintar Pinjol Legal Clue",
+      "title": "Syarat Pinjaman Online Kredit Pintar Pinjol Legal Clue",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Kredit Pintar Pinjol Tips Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Kredit Pintar Pinjol Legal Clue Cepat Cair",
       "link": "file:///android_asset/guide/guide_3.html"
     },
    
    {
       "id": 5,
-      "category": "Kredit Pintar Pinjol Tips",
-      "title": "Kemudhan Pinjaman Online di Kredit Pintar Pinjol Tips",
+      "category": "Kredit Pintar Pinjol Legal Clue",
+      "title": "Kemudhan Pinjaman Online di Kredit Pintar Pinjol Legal Clue",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Kredit Pintar Pinjol Tips cepat cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Kredit Pintar Pinjol Legal Clue cepat cair",
       "link": "file:///android_asset/guide/guide_5.html"
     }
   ]
