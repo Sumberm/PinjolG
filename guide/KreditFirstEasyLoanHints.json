@@ -1,0 +1,79 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "619538190156485_619538680156436",
+      "main_ads_natives":"06e9244e34f5ee4b",
+      "main_ads_intertitial":"619538190156485_619538893489748",
+      "main_ads_reward":"",
+      "open_ads_max":"3e2718343fe31941",
+      "open_ads_admob":"",
+      "backup_ads_banner":"afb8b855b89bcfc1",
+      "backup_ads_natives":"06e9244e34f5ee4b",
+      "backup_ads_intertitial":"01a7b230c10e6cda",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"619538190156485",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Kredit First - Easy Loan Hints",
+      "image": "file:///android_asset/image/png"
+
+    }
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Kredit First - Easy Loan Hints",
+      "title": "Kredit Pintar Pinjol Legal Clue",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Sekilas tentang Kredit First - Easy Loan Hints",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "Kredit First - Easy Loan Hints",
+      "title": "Apakah Pinjaman online Kredit First - Easy Loan Hints",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Cek Pinjaman Online apakah Terdaftar OJK",
+      "link": "file:///android_asset/guide/guide_2.html"},
+    {
+      "id": 3,
+      "category": "Kredit First - Easy Loan Hints",
+      "title": "Cara Menghitung Bunga Pinjaman Online Kredit First - Easy Loan Hints",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Kredit First - Easy Loan Hints",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 4,
+      "category": "Kredit First - Easy Loan Hints",
+      "title": "Syarat Pinjaman Online Kredit First - Easy Loan Hints",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Kredit First - Easy Loan Hints Cepat Cair",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+   
+   {
+      "id": 5,
+      "category": "Kredit First - Easy Loan Hints",
+      "title": "Kemudhan Pinjaman Online di Kredit First - Easy Loan Hints",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Kredit First - Easy Loan Hints cepat cair",
+      "link": "file:///android_asset/guide/guide_5.html"
+    }
+  ]
+}
