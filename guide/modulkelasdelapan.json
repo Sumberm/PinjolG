@@ -27,7 +27,7 @@
   ],
      "Categories": [
     {
-      "category": "kurmerkelastujuh",
+      "category": "Modul Kelas 8",
       "image": "file:///android_asset/image/png"
 
     }
@@ -37,43 +37,52 @@
   "Data": [
     {
       "id": 1,
-      "category": "kurmerkelastujuh",
-      "title": "Cara Cek Bonus UMKM Pakai KTP",
+      "category": "Modul Kelas 8",
+      "title": "Modul Kelas 8 Bab I",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Berikut ini Cara Cek Bonus UMKM Pakai KTP",
+      "description": "Berikut ini Modul Kelas 8 Bab I",
       "link": "file:///android_asset/guide/guide_1.html"
     },
     {
       "id": 2,
-      "category": "kurmerkelastujuh",
-      "title": "Cara Cek Bonus PKH Pakai KTP",
+      "category": "Modul Kelas 8",
+      "title": "Modul Kelas 8 Bab II",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Berikut ini Cara Cek Bonus PKH Pakai KTP",
+      "description": "Berikut ini Modul Kelas 8 Bab II",
       "link": "file:///android_asset/guide/guide_2.html"},
     {
       "id": 3,
-      "category": "kurmerkelastujuh",
-      "title": "Cara Cek Bonus BSU Pakai KTP",
+      "category": "Modul Kelas 8",
+      "title": "Modul Kelas 8 Bab 1II",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Berikut ini Cara Cek Bonus BSU Pakai KTP",
+      "description": "Berikut ini Modul Kelas 8 Bab III",
       "link": "file:///android_asset/guide/guide_3.html"
     },
     {
       "id": 4,
-      "category": "kurmerkelastujuh",
-      "title": "Cara Cek Bonus BLT BBM Pakai KTP",
+      "category": "Modul Kelas 8",
+      "title": "Modul Kelas 8 Bab 1V",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Berikut ini adalah Cara Cek Bonus BLT BBM Pakai KTP",
+      "description": "Berikut ini Modul Kelas 8 Bab IV",
       "link": "file:///android_asset/guide/guide_4.html"
     },
    
    {
       "id": 5,
-      "category": "kurmerkelastujuh",
-      "title": "Cara Cek Bonus BST dan BPNT Pakai KTP",
+      "category": "Modul Kelas 8",
+      "title": "Modul Kelas 8 Bab V",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Berikut ini Cara Cek Bonus BST dan BPNT Pakai KTP",
+      "description": "Berikut ini Modul Kelas 8 Bab V",
       "link": "file:///android_asset/guide/guide_5.html"
+    },
+
+   {
+      "id": 6,
+      "category": "Modul Kelas 8",
+      "title": "Modul Kelas 8 Bab VI",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Berikut ini Modul Kelas 8 Bab VI",
+      "link": "file:///android_asset/guide/guide_6.html"
     }
   ]
 }
