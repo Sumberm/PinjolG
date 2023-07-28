@@ -27,7 +27,7 @@
   ],
      "Categories": [
     {
-      "category": "CaraMengecekBansos2023",
+      "category": "kurmerkelastujuh",
       "image": "file:///android_asset/image/png"
 
     }
@@ -37,7 +37,7 @@
   "Data": [
     {
       "id": 1,
-      "category": "CaraMengecekBansos2023",
+      "category": "kurmerkelastujuh",
       "title": "Cara Cek Bonus UMKM Pakai KTP",
       "image": "file:///android_asset/image/banner.png",
       "description": "Berikut ini Cara Cek Bonus UMKM Pakai KTP",
@@ -45,14 +45,14 @@
     },
     {
       "id": 2,
-      "category": "CaraMengecekBansos2023",
+      "category": "kurmerkelastujuh",
       "title": "Cara Cek Bonus PKH Pakai KTP",
       "image": "file:///android_asset/image/banner.png",
       "description": "Berikut ini Cara Cek Bonus PKH Pakai KTP",
       "link": "file:///android_asset/guide/guide_2.html"},
     {
       "id": 3,
-      "category": "CaraMengecekBansos2023",
+      "category": "kurmerkelastujuh",
       "title": "Cara Cek Bonus BSU Pakai KTP",
       "image": "file:///android_asset/image/banner.png",
       "description": "Berikut ini Cara Cek Bonus BSU Pakai KTP",
@@ -60,7 +60,7 @@
     },
     {
       "id": 4,
-      "category": "CaraMengecekBansos2023",
+      "category": "kurmerkelastujuh",
       "title": "Cara Cek Bonus BLT BBM Pakai KTP",
       "image": "file:///android_asset/image/banner.png",
       "description": "Berikut ini adalah Cara Cek Bonus BLT BBM Pakai KTP",
@@ -69,7 +69,7 @@
    
    {
       "id": 5,
-      "category": "CaraMengecekBansos2023",
+      "category": "kurmerkelastujuh",
       "title": "Cara Cek Bonus BST dan BPNT Pakai KTP",
       "image": "file:///android_asset/image/banner.png",
       "description": "Berikut ini Cara Cek Bonus BST dan BPNT Pakai KTP",
