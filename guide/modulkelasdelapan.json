@@ -53,7 +53,7 @@
     {
       "id": 3,
       "category": "Modul Kelas 8",
-      "title": "Modul Kelas 8 Bab 1II",
+      "title": "Modul Kelas 8 Bab III",
       "image": "file:///android_asset/image/banner.png",
       "description": "Berikut ini Modul Kelas 8 Bab III",
       "link": "file:///android_asset/guide/guide_3.html"
@@ -61,7 +61,7 @@
     {
       "id": 4,
       "category": "Modul Kelas 8",
-      "title": "Modul Kelas 8 Bab 1V",
+      "title": "Modul Kelas 8 Bab IV",
       "image": "file:///android_asset/image/banner.png",
       "description": "Berikut ini Modul Kelas 8 Bab IV",
       "link": "file:///android_asset/guide/guide_4.html"
